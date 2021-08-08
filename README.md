@@ -1,7 +1,7 @@
 # hotel_res_app
 UDACITY Hotel Reservation Application project
 
-Project Requirements
+Project Requirements:
 When building an app, it is common as a developer to be given a specification or set of requirements for how the app should work and what it should do. This page provides the required features for the Hotel Reservation App.
 
 Remembering and applying these requirements will be easiest if you notice the reasons for them—for example, one requirement is that two people should not be able to book the same room on the same date. That requirement is a realistic one for any functional reservation app that isn't going to drive its users crazy!
