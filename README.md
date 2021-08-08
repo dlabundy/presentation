@@ -1,4 +1,4 @@
-# hotel_res_app
+# hotel_reservation_resubmit
 UDACITY Hotel Reservation Application project
 
 Project Requirements:
